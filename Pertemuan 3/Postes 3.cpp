@@ -294,7 +294,7 @@ int main(int argc, char** argv)
 	glutInitWindowSize(480, 480);		// besarnya jendela dalam piksel dalam hal ini 300x300
 	glutInitWindowPosition(100, 100);	// posisi jendela dilayar komputer dalam piksel
 	// judul jendela (wajib diubah dengan informasi NAMA / NIM - JUDUL PRAKTIKUM masing-masing)
-	glutCreateWindow("Dewa Putra Hernanda / 2000018270 - KODE DASAR PRAKTIKUM GRAFIKA KOMPUTER");
+	glutCreateWindow("Riyan Adi Saputro / 2000018286 - Postest 3");
 
 	// panggil fungsi init untuk inisialisasi awal
 	init();
